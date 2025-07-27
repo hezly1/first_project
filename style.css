@@ -1,0 +1,10 @@
+input{
+    margin-bottom: 10px;
+}
+
+.redcting{
+    background-color: #1b1c22;
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 80px;
+}
